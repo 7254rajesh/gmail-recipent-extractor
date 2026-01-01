@@ -15,3 +15,5 @@ Thumbs.db
 
 # Output files
 *.xlsx
+
+!sample_output.xlsx
